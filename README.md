@@ -15,13 +15,24 @@ Cada pasta (T00, T01, T02, T03, T04) contém:
 Exemplo lógico:
 📦 Repositório
  ┣ 📂 T01
+ 
  ┣ 📂 T02
- ┃ ┣ 📜 ex01.java
- ┃ ┣ 📜 ex02.java
- ┃ ┣ 📜 ex03.java
- ┃ ┣ 📜 ex04.java
- ┃ ┣ 📜 ex05.java
- ┃ ┣ 📜 ex06.java
+ 
+  ┃ ┣ 📜 ex01.java
+ 
+  ┃ ┣ 📜 ex02.java
+ 
+  ┃ ┣ 📜 ex03.java
+ 
+  ┃ ┣ 📜 ex04.java
+ 
+  ┃ ┣ 📜 ex05.java
+ 
+  ┃ ┣ 📜 ex06.java
+ 
  ┃ ┗ 📄 fluxogramas.pdf
+ 
  ┣ 📂 T03
+ 
  ┣ 📂 T04
+ 
