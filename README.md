@@ -1,6 +1,6 @@
-# 📚 Atividades T01 a T04 - Java
+# 📚 Atividades T01 a T05 - Java
 
-Este repositório contém a resolução das atividades T01 a T04 da disciplina, organizadas em pastas individuais.
+Este repositório contém a resolução das atividades T01 a T05 da disciplina, organizadas em pastas individuais.
 
 ## 📁 Estrutura do Projeto
 
@@ -37,4 +37,6 @@ Exemplo lógico:
  ┣ 📂 T03
  
  ┣ 📂 T04
+
+  ┣ 📂 T05
  
