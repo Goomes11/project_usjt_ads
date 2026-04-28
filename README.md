@@ -1,10 +1,10 @@
-# 📚 Atividades T01 a T05 - Java
+# 📚 Atividades T01 a T07 - Java
 
 Este repositório contém a resolução das atividades T01 a T05 da disciplina, organizadas em pastas individuais.
 
 ## 📁 Estrutura do Projeto
 
-Cada pasta (T00, T01, T02, T03, T04) contém:
+Cada pasta (T00, T01, T02, T03, T04, T05, T06, T06) contém:
 
 - Arquivos `.java` com a implementação das atividades
 - Um arquivo `.pdf` com:
@@ -38,5 +38,8 @@ Exemplo lógico:
  
  ┣ 📂 T04
 
-  ┣ 📂 T05
+ ┣ 📂 T05
+
+ ┣ 📂 T06
  
+ ┣ 📂 T07
